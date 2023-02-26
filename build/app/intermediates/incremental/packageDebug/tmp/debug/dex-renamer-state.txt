@@ -1,0 +1,4 @@
+#Sun Feb 26 21:16:29 ICT 2023
+base.0=/Users/navpreet/Downloads/WhatToDo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
